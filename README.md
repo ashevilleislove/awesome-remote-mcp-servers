@@ -407,6 +407,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [Ardaro Agent Runtime Utilities](https://agents.getardaro.com/agent-utilities) `https://agents.getardaro.com/mcp/utilities`
+  [![Ardaro Agent Runtime Utilities MCP connector](https://glama.ai/mcp/connectors/io.github.ashevilleislove/ardaro-agent-utilities/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ashevilleislove/ardaro-agent-utilities)
+  🔓 - Advisory context, intent, spend and billing checks; free examples, paid analysis via Stripe credits or x402.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
@@ -632,6 +635,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data via x402: Polymarket arbitrage, kimchi premium, token unlocks and funding rates.
+- [Ardaro Purchase Document Review](https://agents.getardaro.com/document-review) `https://agents.getardaro.com/mcp/documents`
+  [![Ardaro Purchase Document Review MCP connector](https://glama.ai/mcp/connectors/com.getardaro.agents/ardaro-receipt-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.getardaro.agents/ardaro-receipt-intelligence)
+  🔓 - Receipt and invoice/PO review; free examples and comparison, paid checks via Stripe credits or x402.
 - [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
   🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
